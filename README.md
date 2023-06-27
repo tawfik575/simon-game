@@ -8,7 +8,7 @@ This is a web-based implementation of the classic electronic memory game, Simon.
 
 This website includes the following features:
 
-* **Intuitive User Interface:** The game boasts a user-friendly and visually appealing interface that allows players to easily interact with the game elements.
+* **Intuitive User Interface:** The game has a user-friendly and visually appealing interface that allows players to easily interact with the game elements.
 * **Four Colorful Buttons:** It includes four large buttons, each representing a different color (red, blue, green, and yellow) to engage players and add a visual aspect to the gameplay.
 * **Unique Sounds:** Each button produces a distinct sound, creating an immersive audio experience and aiding players in remembering the sequence.
 * **Progressive Difficulty:** The game gradually increases in complexity as players successfully replicate each sequence, challenging their memory skills and providing an exciting gameplay experience.
